@@ -46,7 +46,6 @@ public partial class Player : CharacterBody2D
 		MoveAndSlide();
 		UpdateAnimation(velocity);
 
-		// Esto es una prueba
 	}
 
 	private void UpdateAnimation(Vector2 velocity)
